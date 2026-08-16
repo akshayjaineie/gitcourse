@@ -1,2 +1,2 @@
 Readme6
-This is readme 6
+This is readme6.txt
